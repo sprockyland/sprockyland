@@ -1,146 +1,53 @@
 <div align="center">
 
-<!-- Profilbild später z. B. als profile.png in dieses Repository legen -->
-<img src="https://avatars.githubusercontent.com/u/121239099?v=4)" width="150" alt="sprockyland">
+<img src="https://avatars.githubusercontent.com/u/121239099?v=4" width="110">
 
 # sprockyland
 
-### 👋 Willkommen in meinem digitalen Bastelkeller
+**Code · PowerShell · Cache · Smart Home · Technik**
 
-Hier entsteht nach und nach eine Sammlung rund um  
-**Programmierung · PowerShell · Cache · Smart Home · Technik**
+<sub>Meine kleine Sammlung für Projekte, Skripte, Experimente und Dinge, die irgendwann mal nützlich werden könnten.</sub>
 
-<br>
-
-</div>
-
----
+<br><br>
 
 <table>
 <tr>
-
-<td width="50%" valign="top">
-
-## 💻 Programmierung
-
-Code, Experimente, Tools und kleine Projekte.
-
-<br>
-
-**Geplant:**  
-Python · Web · APIs · kleine Helfer
-
-<br>
-
-➡️ *Projekte folgen*
-
+<td align="center" width="200">
+<h3>💻 Programmierung</h3>
+<sub>Code · APIs · Web</sub>
 </td>
 
-<td width="50%" valign="top">
-
-## ⚡ PowerShell
-
-Skripte, Automatisierung und Dinge,  
-die man besser nicht jedes Mal von Hand macht.
-
-<br>
-
-**Geplant:**  
-Scripts · Module · Snippets · Tools
-
-<br>
-
-➡️ *Projekte folgen*
-
+<td align="center" width="200">
+<h3>⚡ PowerShell</h3>
+<sub>Scripts · Module · Automation</sub>
 </td>
 
+<td align="center" width="200">
+<h3>🗃️ Cache</h3>
+<sub>Daten · Tools · Tests</sub>
+</td>
 </tr>
 
 <tr>
-
-<td width="50%" valign="top">
-
-## 🗃️ Cache
-
-Alles rund um Cache, Daten, Ablagen  
-und technische Experimente.
-
-<br>
-
-**Geplant:**  
-Tools · Dokumentation · Tests
-
-<br>
-
-➡️ *Projekte folgen*
-
+<td align="center" width="200">
+<h3>🏠 Smart Home</h3>
+<sub>Home Assistant · Geräte</sub>
 </td>
 
-<td width="50%" valign="top">
-
-## 🏠 Smart Home
-
-Automatisierung für Haus, Wohnung  
-und alles, was sich irgendwie schalten lässt.
-
-<br>
-
-**Geplant:**  
-Home Assistant · Geräte · Automationen · Ideen
-
-<br>
-
-➡️ *Projekte folgen*
-
+<td align="center" width="200">
+<h3>🛠️ Tools</h3>
+<sub>Helfer · Utilities</sub>
 </td>
 
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 🛠️ Tools & Helfer
-
-Kleine Werkzeuge, die irgendwann entstanden sind,  
-weil es keine Lust gab, etwas zweimal zu machen.
-
-<br>
-
-➡️ *Sammlung folgt*
-
+<td align="center" width="200">
+<h3>🧪 Spielwiese</h3>
+<sub>Tests · Ideen · Experimente</sub>
 </td>
-
-<td width="50%" valign="top">
-
-## 🧪 Spielwiese
-
-Tests, unfertige Ideen und Dinge mit ungewissem Ausgang.
-
-<br>
-
-**Betreten auf eigene Gefahr. 😄**
-
-<br>
-
-➡️ *Experimente folgen*
-
-</td>
-
 </tr>
 </table>
 
----
-
-<div align="center">
-
-### 🚧 Work in progress
-
-Diese Seite ist zunächst die Übersicht.  
-Die einzelnen Bereiche werden nach und nach mit Projekten gefüllt.
-
 <br>
 
-`Code` · `Automation` · `Smart Home` · `PowerShell` · `Experiments`
+<sub>🚧 Im Aufbau. Die Bereiche werden nach und nach mit Projekten gefüllt.</sub>
 
 </div>
